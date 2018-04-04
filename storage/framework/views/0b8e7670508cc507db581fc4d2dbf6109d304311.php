@@ -75,7 +75,7 @@
                   </a>
                     <ul class="nav child_menu">
                       <li>
-                        <a href="<?php echo e(route('log-viewer::dashboard')); ?>">
+                        <a href="<?php echo e(url('admin/add')); ?>">
                             Buat Akun
                         </a>
                       </li>

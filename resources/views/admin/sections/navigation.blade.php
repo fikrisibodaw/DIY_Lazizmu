@@ -75,7 +75,7 @@
                   </a>
                     <ul class="nav child_menu">
                       <li>
-                        <a href="{{ route('log-viewer::dashboard') }}">
+                        <a href="{{ url('admin/add') }}">
                             Buat Akun
                         </a>
                       </li>
